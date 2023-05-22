@@ -1,3 +1,4 @@
+This repository stores the code and data related to ACL2023 Findings paper: `Incomplete Utterance Rewriting by A Two-Phase Locate-and-Fill Regime`.
 Running Steps on `CANARD`, it is similar on `CQR` and `MuDoCo`.
 
 ## Data generation
